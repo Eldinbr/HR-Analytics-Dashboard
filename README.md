@@ -2,6 +2,10 @@ Project Title: **HR-Analytics-Dashboard**
 
 An interactive HR Analytics Dashboard built in Tableau Public. This project analyzes employee attrition, workforce demographics, job satisfaction, and employee age distribution to uncover trends that support data-driven HR decision-making. The dashboard highlights key HR metrics such as attrition rate, department-wise attrition, gender-based insights, and employee satisfaction patterns.
 
+Preview
+
+<img width="1189" height="742" alt="Screenshot 2026-04-30 at 12 02 13 PM" src="https://github.com/user-attachments/assets/2eac58bc-2a11-4a0e-804e-87b483e9feaf" />
+
 Tableau Dashboard Link : https://public.tableau.com/app/profile/eldin.b.joseph/viz/HRAnalyticsDashboard_17238387531440/HRAnalyticsDashboard
 
 ## Table of Contents
@@ -115,9 +119,7 @@ Business Value
 - Understand workforce satisfaction trends
 - Support strategic hiring and workforce planning
 
-Preview
 
-<img width="1189" height="742" alt="Screenshot 2026-04-30 at 12 02 13 PM" src="https://github.com/user-attachments/assets/2eac58bc-2a11-4a0e-804e-87b483e9feaf" />
 
 
 ---
